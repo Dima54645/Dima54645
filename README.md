@@ -4,13 +4,13 @@
 
 ### :man_technologist: About Me:
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Krasnodar. I work at the Tech-crew.ru.
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Krasnodar.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Codewars and read tech articles.
+- :zap: In my free time read tech articles..
 
 ### :hammer_and_wrench: Languages and Tools:
 
